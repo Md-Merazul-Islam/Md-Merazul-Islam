@@ -18,11 +18,9 @@
 <br><br>
 - :school: I am a `student` of [CST](#) at [Mymensingh Polytechnic Institute](https://www.facebook.com/mpimymen).
 - :trophy: Practicing for `ICPC`.
-- :technologist: I love using Software to solve every `Problem`.
+- :technologist: I love solving `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - :student: I’m currently learning `Problem solving` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
 - :boom: You can visit [MY WEBSITE](https://prgmdmerazulislam.mystrikingly.com/).
 <be>
 
