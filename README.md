@@ -4,17 +4,12 @@
 </h2>
 </div>
 
-  <div align="center"><p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
-</div>
 
-<div >
+<div align="center">
   <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=QUICKSAND&pause=1000&color=F70C9B&random=false&width=435&lines=Always+learning+new+thing;Competitive+Programmer;Software+Engineer;Pupil+Coder+in+Codeforces;Codechef+2%E2%AD%90+Coder" alt="Typing SVG" style="max-width: 100%;padding-left: 170px;" />
 </div>
 
 
-
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdmerazulislam2) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmerazulislam/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md_merazulislam/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdmerazulislam_/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mdmerazul75@gmail.com](https://prgmdmerazulislam.mystrikingly.com/#5)) 
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
@@ -142,6 +137,13 @@
 [![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
 	
 </details>
+
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdmerazulislam2) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmerazulislam/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md_merazulislam/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdmerazulislam_/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mdmerazul75@gmail.com](https://prgmdmerazulislam.mystrikingly.com/#5)) 
+
+  <div align="center"><p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
+</div>
 
 
 
