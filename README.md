@@ -5,8 +5,11 @@
 </div>
 
 
-<div align="center">
-  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=QUICKSAND&pause=1000&color=F70C9B&random=false&width=435&lines=Always+learning+new+thing;Competitive+Programmer;Software+Engineer;Pupil+Coder+in+Codeforces;Codechef+2%E2%AD%90+Coder" alt="Typing SVG" style="max-width: 100%;padding-left: 170px;" />
+<div align='center'>
+	
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Graphik&weight=900&size=41&duration=4997&pause=1003&random=false&width=500&height=65&lines=Competitive+Programmer++;Software+Engineer;+Pupil%F0%9F%9F%A2++in+Codeforces;2%E2%AD%90+in+Codechef" alt="Typing SVG" /></a>
+
+
 </div>
 
 
@@ -16,7 +19,11 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :school: I am a `student` of [CST](#) at [Mymensingh Polytechnic Institute](https://www.facebook.com/mpimymen).
+- 🥅 2023 :Goals: Start programming journey, Join Phitron's CP Club, achieve the pupil at Codeforces and 2 ⭐ codechef (Alhamdulillah done)
+- 🥅 2024 :Goals: (ins sha allah) Solve 1000+ problems Codeforces , Become specialist at codeforces , 3⭐at Codeechef and also being a backend developer .
+- 🥅 2025 :Goals: (ins sha allah) To become a Software Engineer Expert and get a job .
+
+- 
 - :trophy: Practicing for `ICPC`.
 - :technologist: I love solving `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
