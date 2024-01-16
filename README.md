@@ -1,17 +1,15 @@
 <div>
-	<h2 align="center">
+<h2 align="center">
   Welcome to Md Merazul Islam's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 </div>
 
 
 <div align='center'>
-	
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Graphik&weight=900&size=41&duration=4997&pause=1003&random=false&width=500&height=65&lines=Competitive+Programmer++;Software+Engineer;+Pupil%F0%9F%9F%A2++in+Codeforces;2%E2%AD%90+in+Codechef" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Graphik&weight=900&size=41&duration=4997&pause=1003&random=false&width=500&height=74&lines=Competitive+Programmer++;Software+Engineer;+Pupil%F0%9F%9F%A2++in+Codeforces;2%E2%AD%90+in+Codechef" alt="Typing SVG" /></a>
 
 
 </div>
-
 
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
@@ -19,15 +17,9 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- 🥅 2023 :Goals: Start programming journey, Join Phitron's CP Club, achieve the pupil at Codeforces and 2 ⭐ codechef (Alhamdulillah done)
-- 🥅 2024 :Goals: (ins sha allah) Solve 1000+ problems Codeforces , Become specialist at codeforces , 3⭐at Codeechef and also being a backend developer .
-- 🥅 2025 :Goals: (ins sha allah) To become a Software Engineer Expert and get a job .
-
-- 
-- :trophy: Practicing for `ICPC`.
-- :technologist: I love solving `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
-- :student: I’m currently learning `Problem solving` and `Software Engineering`.
+- 🥅 2023 :Goals: Start programming journey, Join`Phitron's` CP Club, achieve the `pupil` at Codeforces and `2`⭐ codechef (Alhamdulillah done)
+- 🥅 2024 :Goals: (ins sha allah) Solve `1000+` problems Codeforces , Become `specialis`t at codeforces , `3`⭐at Codeechef and also being a `backend developer` .
+- 🥅 2025 :Goals: (ins sha allah) To become a `Software Engineer Expert` and get a `job` .
 - :boom: You can visit [MY WEBSITE](https://prgmdmerazulislam.mystrikingly.com/).
 <be>
 
@@ -43,7 +35,7 @@
 <br/>
 <a href="https://github.com/Md-Merazul-Islam/meraz_cf">
 <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/max_rating.svg" />
-<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/rating.svg" />
+<!-- <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/rating.svg" /> -->
 </a>
 
 <div align="center" width=100%>
