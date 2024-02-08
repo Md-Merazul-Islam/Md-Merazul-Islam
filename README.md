@@ -5,6 +5,8 @@
 </div>
 
 
+
+
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Graphik&weight=900&size=41&duration=4997&pause=1003&random=false&width=500&height=74&lines=Competitive+Programmer++;Software+Engineer;+Pupil%F0%9F%9F%A2++in+Codeforces;2%E2%AD%90+in+Codechef" alt="Typing SVG" /></a>
 
@@ -139,9 +141,10 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdmerazulislam2) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmerazulislam/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md_merazulislam/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdmerazulislam_/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mdmerazul75@gmail.com](https://prgmdmerazulislam.mystrikingly.com/#5)) 
 
   <div align="center"><p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
+<!--   <img src="https://profile-counter.glitch.me/Niefee/count.svg"/> -->
+	  
+![Visitor Count](https://profile-counter.glitch.me/{Md-Merazul-Islam}/count.svg)
 </div>
-
 
 
 
