@@ -63,17 +63,8 @@
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="bablubambal" height="50" width="50" /> 
 </p>
 
-## Current Stats 
 
-<div  >
-<div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Merazul-Islam&theme=github_dark" width="33%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Merazul-Islam&theme=github_dark" width="33%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Merazul-Islam&theme=github_dark&utcOffset=8" width="33%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Merazul-Islam&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
- 
- 
 </div>
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
@@ -103,7 +94,18 @@
 <!--[![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#) --> 
 
 
+
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+
+<div  >
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Merazul-Islam&theme=github_dark" width="33%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Merazul-Islam&theme=github_dark" width="33%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Merazul-Islam&theme=github_dark&utcOffset=8" width="33%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Merazul-Islam&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+ 
+ 
 
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
