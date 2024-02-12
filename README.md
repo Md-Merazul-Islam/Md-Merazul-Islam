@@ -8,9 +8,7 @@
 
 
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Graphik&weight=900&size=41&duration=4997&pause=1003&random=false&width=500&height=74&lines=Competitive+Programmer++;Software+Engineer;+Pupil%F0%9F%9F%A2++in+Codeforces;2%E2%AD%90+in+Codechef" alt="Typing SVG" /></a>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DF770&random=false&width=358&lines=Competitive+Programmer;Software+Engineer;+Pupil+at+codeforces++max+(1384);3+%E2%AD%90+at+codechef+max+(1713)" alt="Typing SVG" /></a>
 </div>
 
 
@@ -72,6 +70,9 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Merazul-Islam&theme=github_dark" width="33%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Merazul-Islam&theme=github_dark" width="33%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Merazul-Islam&theme=github_dark&utcOffset=8" width="33%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Merazul-Islam&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+ 
  
 </div>
 
@@ -99,7 +100,7 @@
 <!-- [![Vercel Badge](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#)  -->
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289DA)](#) 
 [![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#) 
-<!-- [![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#)  -->
+<!--[![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#) --> 
 
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
@@ -119,12 +120,11 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
 
 ----
 	
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Merazul-Islam&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
- 
+
 </details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
