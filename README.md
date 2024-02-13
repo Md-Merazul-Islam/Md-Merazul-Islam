@@ -20,7 +20,7 @@
 <br><br>
 - 🥅 2023 :Goals: Start programming journey, Join`Phitron's` CP Club, achieve the `pupil` at Codeforces and `2`⭐ codechef (Alhamdulillah done)
 - 🥅 2024 :Goals: (ins sha allah) Solve `1000+` problems Codeforces , Become `specialist` at codeforces , `3`⭐at Codeechef and also become a `backend developer` .
-- 🥅 2025 :Goals: (ins sha allah) To become a `Software Engineer` and get a `job` .
+  <!--- 🥅 2025 :Goals: (ins sha allah) To become a `Software Engineer` and get a `job` .-->
 - :boom: You can visit [MY WEBSITE](https://prgmdmerazulislam.mystrikingly.com/).
 <be>
 
