@@ -8,8 +8,7 @@
 
 
 <div align='center'>
-	
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27FF43&random=false&width=269&lines=Competitive+Programmer;Software+Engineer;3%E2%AD%90+at+codechef+;Pupil+at+codeforces" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&random=false&width=390&lines=Competitive+Programmer;Software+Engineer;Specialist+at+Codeforces;%E2%AD%90%E2%AD%90%E2%AD%90+at+Codechef" alt="Typing SVG" /></a>
 </div>
 
 
