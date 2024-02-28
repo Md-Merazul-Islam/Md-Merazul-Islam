@@ -31,8 +31,8 @@
 <!-- https://leetcard.jacoblin.cool/ --> 
 <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/max_rating.svg" />
 <a href="https://github.com/Md-Merazul-Islam/meraz_cf">
-<!-- <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg#gh-dark-mode-only" />-->
-<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg" /> 
+<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg#gh-dark-mode-only" />-->
+<!--<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg" /> -->
 </a>
 <br/>
 <a href="https://github.com/Md-Merazul-Islam/meraz_cf">
