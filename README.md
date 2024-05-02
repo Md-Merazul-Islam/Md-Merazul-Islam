@@ -13,7 +13,7 @@
 </div>
 
 
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> I'm a Learner
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> My Dedication
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
@@ -31,7 +31,7 @@
 <!-- https://leetcard.jacoblin.cool/ --> 
 <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/max_rating.svg" />
 <a href="https://github.com/Md-Merazul-Islam/meraz_cf">
-<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg#gh-dark-mode-only" />-->
+<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg#gh-dark-mode-only" />
 <!--<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg" /> -->
 </a>
 <br/>
@@ -73,7 +73,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,cpp,java,python,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,cpp,java,html,css,bootstrap,tailwind,javascript" />
 <!--     <img src="https://skillicons.dev/icons?i=html,css,babel,javascript,react,next,tailwind,bootstrap,materialui,nodejs,expressjs,mongodb,typescript,mysql,git,github,vite,jquery,firebase,postman,cpp,java,python,php,vscode,c,vercel,netlify,figma" /> -->
   </a>
 </p>
