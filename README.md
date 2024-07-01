@@ -73,7 +73,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,cpp,java,html,css,bootstrap,tailwind,javascript" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,django,mysql,cpp,java,html,css,bootstrap,tailwind" />
 <!--     <img src="https://skillicons.dev/icons?i=html,css,babel,javascript,react,next,tailwind,bootstrap,materialui,nodejs,expressjs,mongodb,typescript,mysql,git,github,vite,jquery,firebase,postman,cpp,java,python,php,vscode,c,vercel,netlify,figma" /> -->
   </a>
 </p>
@@ -82,7 +82,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,ai,ps,discord" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,ai,ps,discord,netlify,figma" />
 <!--     <img src="https://skillicons.dev/icons?i=html,css,babel,javascript,react,next,tailwind,bootstrap,materialui,nodejs,expressjs,mongodb,typescript,mysql,git,github,vite,jquery,firebase,postman,cpp,java,python,php,vscode,c,vercel,netlify,figma" /> -->
   </a>
 </p>
