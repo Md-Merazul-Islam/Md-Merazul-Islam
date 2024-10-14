@@ -22,7 +22,7 @@
 - 🥅 2024 :Goals: (ins sha allah) Solve `1000+` problems Codeforces , Become `specialist` at codeforces , `3`⭐ at Codeechef and also become a `backend developer` .
   <!--- 🥅 2025 :Goals: (ins sha allah) To become a `Software Engineer` and get a `job` .-->
 - :boom: You can visit [MY WEBSITE](https://mdmerazulislam.netlify.app/).
-- CV - [Resume ](https://drive.google.com/drive/u/0/folders/1ZFg2m6cTgZLJXRdkYpbpYUSXesQWL0qk)
+- CV - [Resume](https://drive.google.com/file/d/1LFYPfXZE-zThQoeY1kg5J_8cysUQ_h11/view?usp=sharing) 
 <be>
 
 <!-- Competitive Programming Profiles --> 
