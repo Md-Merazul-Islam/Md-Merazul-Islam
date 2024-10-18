@@ -17,49 +17,9 @@ I am a passionate software developer with expertise in **Django**, **Django REST
 🌱 **Currently learning:** Advanced problem-solving and improving my full-stack development skills.  
 💻 **Actively coding in:** Python, JavaScript, SQL  
 🎯 **Goals for 2024:** Keep solving complex problems and contribute more to open-source projects.  
-
-
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> My Dedication
-
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
-
-<br><br>
-- 🥅 2023 :Goals: Start programming journey, Join`Phitron's` CP Club, achieve the `pupil` at Codeforces and `2`⭐ at codechef (Alhamdulillah done)
-- 🥅 2024 :Goals: (ins sha allah) Solve `1000+` problems Codeforces , Become `specialist` at codeforces , `3`⭐ at Codeechef and also become a `backend developer` .
-  <!--- 🥅 2025 :Goals: (ins sha allah) To become a `Software Engineer` and get a `job` .-->
-- :boom: You can visit [MY WEBSITE](https://mdmerazulislam.netlify.app/).
+- :boom: You can visit [Portfolio](https://mdmerazulislam.netlify.app/)
 - CV - [Resume](https://drive.google.com/file/d/1LFYPfXZE-zThQoeY1kg5J_8cysUQ_h11/view?usp=sharing) 
 <be>
-
-<!-- Competitive Programming Profiles --> 
-
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
-
-<!-- https://leetcard.jacoblin.cool/ --> 
-<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/max_rating.svg" />
-<a href="https://github.com/Md-Merazul-Islam/meraz_cf">
-<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg#gh-dark-mode-only" />
-<!--<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg" /> -->
-</a>
-<br/>
-<a href="https://github.com/Md-Merazul-Islam/meraz_cf">
-<!-- <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/max_rating.svg" /> -->
-<!-- <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/rating.svg" /> -->
-</a>
-
-<div align="center" width=100%>
-  <a href="https://codeforces.com/profile/Md-Merazul-Islam"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
-	  &emsp; 
-	<a href="https://leetcode.com/mdmerazulislam/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
-	  &emsp; 
-	<a href="https://atcoder.jp/users/mdmerazulislam"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
-	  &emsp; 
-	<a href="https://atcoder.jp/users/mdmerazulislam"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
-	  &emsp; 
-	<a href="#"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
-	  &emsp; 
-
-</div>
 
 
 ###  👨‍💻  Programming languages
@@ -93,6 +53,38 @@ I am a passionate software developer with expertise in **Django**, **Django REST
 <!--     <img src="https://skillicons.dev/icons?i=html,css,babel,javascript,react,next,tailwind,bootstrap,materialui,nodejs,expressjs,mongodb,typescript,mysql,git,github,vite,jquery,firebase,postman,cpp,java,python,php,vscode,c,vercel,netlify,figma" /> -->
   </a>
 </p>
+
+
+<!-- Competitive Programming Profiles --> 
+
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+
+<!-- https://leetcard.jacoblin.cool/ --> 
+<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/max_rating.svg" />
+<a href="https://github.com/Md-Merazul-Islam/meraz_cf">
+<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg#gh-dark-mode-only" />
+<!--<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg" /> -->
+</a>
+<br/>
+<a href="https://github.com/Md-Merazul-Islam/meraz_cf">
+<!-- <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/max_rating.svg" /> -->
+<!-- <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/rating.svg" /> -->
+</a>
+
+<div align="center" width=100%>
+  <a href="https://codeforces.com/profile/Md-Merazul-Islam"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+	  &emsp; 
+	<a href="https://leetcode.com/mdmerazulislam/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
+	  &emsp; 
+	<a href="https://atcoder.jp/users/mdmerazulislam"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
+	  &emsp; 
+	<a href="https://atcoder.jp/users/mdmerazulislam"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
+	  &emsp; 
+	<a href="#"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
+	  &emsp; 
+
+</div>
+
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
@@ -147,5 +139,14 @@ I am a passionate software developer with expertise in **Django**, **Django REST
 ![Visitor Count](https://profile-counter.glitch.me/{Md-Merazul-Islam}/count.svg)
 </div>
 
+
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> My Dedication
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+
+<br><br>
+- 🥅 2023 :Goals: Start programming journey, Join`Phitron's` CP Club, achieve the `pupil` at Codeforces and `2`⭐ at codechef (Alhamdulillah done)
+- 🥅 2024 :Goals: (ins sha allah) Solve `1000+` problems Codeforces , Become `specialist` at codeforces , `3`⭐ at Codeechef and also become a `backend developer` .
+  <!--- 🥅 2025 :Goals: (ins sha allah) To become a `Software Engineer` and get a `job` .-->
 
 
