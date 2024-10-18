@@ -85,6 +85,10 @@ I am a passionate software developer with expertise in **Django**, **Django REST
 
 </div>
 
+<p align="center">
+    <a href="https://github.com/Md-Merazul-Islam">
+        <img alt="Md-Merazul-Islam's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Merazul-Islam&theme=tokyonight&hide_border=true" height="500px"/>
+    </a>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
@@ -102,15 +106,21 @@ I am a passionate software developer with expertise in **Django**, **Django REST
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
-	
+
+
+
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Md-Merazul-Islam&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Merazul-Islam&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
+        <img alt="Md-Merazul-Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Md-Merazul-Islam&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="600px"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Md-Merazul-Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Merazul-Islam&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="1100px"/>
+    </a>
+</p>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+
+
+
 </details>
 
 
@@ -148,5 +158,7 @@ I am a passionate software developer with expertise in **Django**, **Django REST
 - 🥅 2023 :Goals: Start programming journey, Join`Phitron's` CP Club, achieve the `pupil` at Codeforces and `2`⭐ at codechef (Alhamdulillah done)
 - 🥅 2024 :Goals: (ins sha allah) Solve `1000+` problems Codeforces , Become `specialist` at codeforces , `3`⭐ at Codeechef and also become a `backend developer` .
   <!--- 🥅 2025 :Goals: (ins sha allah) To become a `Software Engineer` and get a `job` .-->
+
+
 
 
