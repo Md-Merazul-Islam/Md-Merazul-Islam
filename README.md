@@ -12,8 +12,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B6FF&width=280&lines=Django+Developer;Full+Stack+Developer;Competitive+Programmer+;Specialist+%40Codeforces;3%E2%AD%90+%40CodeChef;React+Developer" alt="Typing SVG" /></a>
 </div>
 
-I am a passionate software developer with expertise in **Django**, **Django REST Framework**, and **React.js**. My skills include working with **REST APIs**, **SQL**, **PostgreSQL**, **MySQL**, and **JavaScript**. I enjoy solving problems and have solved over **1400 competitive programming** problems across various platforms.
+I am a passionate Full Stack developer with expertise in **Django**, **Django REST Framework**, and **React.js**. My skills include working with **REST APIs**, **SQL**, **PostgreSQL**, **MySQL**, and **JavaScript**. I enjoy solving problems and have solved over **1400 competitive programming** problems across various platforms.
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+
 🌱 **Currently learning:** Advanced problem-solving and improving my full-stack development skills.  
 💻 **Actively coding in:** Python, JavaScript, SQL  
 🎯 **Goals for 2024:** Keep solving complex problems and contribute more to open-source projects.  
