@@ -16,8 +16,8 @@ I am a passionate Full Stack developer with expertise in **Django**, **Django RE
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 🌱 **Currently learning:** Advanced problem-solving and improving my full-stack development skills.  
-💻 **Actively coding in:** Python, JavaScript, SQL , C++
-🎯 **Goals for 2024:** Keep solving complex problems and contribute more to open-source projects.  
+💻 **Actively coding in:** Python, JavaScript, SQL , C++	
+🎯 **Goals for 2024:** A full stack developer and preparing for a job .  
 - :boom: You can visit [Portfolio](https://mdmerazulislam.netlify.app/)
 - CV - [Resume](https://drive.google.com/file/d/1SrRDya2jkaZAsUeYLeuo-4bxLdJBM7QR/view) 
 <be>
