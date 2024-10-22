@@ -19,7 +19,7 @@ I am a passionate Full Stack developer with expertise in **Django**, **Django RE
 💻 **Actively coding in:** Python, JavaScript, SQL  
 🎯 **Goals for 2024:** Keep solving complex problems and contribute more to open-source projects.  
 - :boom: You can visit [Portfolio](https://mdmerazulislam.netlify.app/)
-- CV - [Resume](https://drive.google.com/file/d/1LFYPfXZE-zThQoeY1kg5J_8cysUQ_h11/view?usp=sharing) 
+- CV - [Resume](https://drive.google.com/file/d/1SrRDya2jkaZAsUeYLeuo-4bxLdJBM7QR/view) 
 <be>
 
 
@@ -39,20 +39,20 @@ I am a passionate Full Stack developer with expertise in **Django**, **Django RE
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills  </h2>
 <br>
-<p align="center">
-  <a href="https://skillicons.dev">
+<p align="left">
+<!--   <a href="https://skillicons.dev"> -->
     <img src="https://skillicons.dev/icons?i=react,python,javascript,django,mysql,cpp,java,html,css,bootstrap,tailwind" />
 <!--     <img src="https://skillicons.dev/icons?i=html,css,babel,javascript,react,next,tailwind,bootstrap,materialui,nodejs,expressjs,mongodb,typescript,mysql,git,github,vite,jquery,firebase,postman,cpp,java,python,php,vscode,c,vercel,netlify,figma" /> -->
-  </a>
+<!--   </a> -->
 </p>
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tools </h2>
 <br>
-<p align="center">
-  <a href="https://skillicons.dev">
+<p align="left">
+
     <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,ai,ps,discord,netlify,figma" />
 <!--     <img src="https://skillicons.dev/icons?i=html,css,babel,javascript,react,next,tailwind,bootstrap,materialui,nodejs,expressjs,mongodb,typescript,mysql,git,github,vite,jquery,firebase,postman,cpp,java,python,php,vscode,c,vercel,netlify,figma" /> -->
-  </a>
+
 </p>
 
 
@@ -72,17 +72,18 @@ I am a passionate Full Stack developer with expertise in **Django**, **Django RE
 <!-- <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/rating.svg" /> -->
 </a>
 
-<div align="center" width=100%>
-  <a href="https://codeforces.com/profile/Md-Merazul-Islam"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+<div align="left" width=100% >
+  <a href="https://codeforces.com/profile/Md-Merazul-Islam"><img src="https://i.ibb.co.com/bmz0Z6C/Untitled-design-removebg-preview.png" width=6%/></a>
 	  &emsp; 
-	<a href="https://leetcode.com/mdmerazulislam/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
+	<a href="https://leetcode.com/mdmerazulislam/"><img src="https://i.ibb.co.com/PrNnHzz/Untitled-design-2-removebg-preview.png" alt="LeetCode" width=60/></a>
 	  &emsp; 
-	<a href="https://atcoder.jp/users/mdmerazulislam"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
+	<a href="https://atcoder.jp/users/mdmerazulislam"><img src="https://i.ibb.co.com/Cb6V7NF/Untitled-design-3-removebg-preview.png" alt="AtCoder" width=6%/></a>
 	  &emsp; 
-	<a href="https://atcoder.jp/users/mdmerazulislam"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
+	<a href="https://atcoder.jp/users/mdmerazulislam"><img src="https://i.ibb.co.com/bbWxB0s/Untitled-design-4-removebg-preview.png" alt="Code Chef" width=6%/></a>
 	  &emsp; 
-	<a href="#"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
+	<a href="https://www.hackerrank.com/profile/mdmerazul75"><img src="https://i.ibb.co.com/3NzhC55/Untitled-design-5-removebg-preview.png" alt="Hacker Rank" width=6%/></a>
 	  &emsp; 
+	
 
 </div>
 
