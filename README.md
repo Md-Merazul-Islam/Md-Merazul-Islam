@@ -15,7 +15,6 @@
 I am a passionate Full Stack developer with expertise in **Django**, **Django REST Framework**, and **React.js**. My skills include working with **REST APIs**, **SQL**, **PostgreSQL**, **MySQL**, and **JavaScript**. I enjoy solving problems and have solved over **1400 competitive programming** problems across various platforms.
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-🌱 **Currently learning:** Advanced problem-solving and improving my full-stack development skills.  
 💻 **Acitively coding in:** Python, JavaScript, SQL , C++ .  
 🎯 **Goals for 2024:** A full stack developer and preparing for a job..  
 
