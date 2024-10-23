@@ -1,8 +1,12 @@
-<div>
+
+
+![Black and Yellow Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/c48b258d-1868-49d6-aa8e-27e43a360329)
+
 <h2 align="center">
   Welcome to Md Merazul Islam's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 </div>
+
 
 
 
