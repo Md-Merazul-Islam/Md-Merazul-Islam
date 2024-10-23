@@ -23,7 +23,7 @@ I am a passionate Full Stack developer with expertise in **Django**, **Django RE
 🎯 **Goals for 2024:** A full stack developer and preparing for a job..  
 
 - :boom: You can visit [Portfolio](https://mdmerazulislam.netlify.app/)
-- CV - [Resume](https://drive.google.com/file/d/1SrRDya2jkaZAsUeYLeuo-4bxLdJBM7QR/view) 
+- CV - [see now](https://drive.google.com/file/d/1SrRDya2jkaZAsUeYLeuo-4bxLdJBM7QR/view) 
 <be>
 
 
