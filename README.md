@@ -16,48 +16,27 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B6FF&width=280&lines=Django+Developer;Full+Stack+Developer;Competitive+Programmer+;Specialist+%40Codeforces;3%E2%AD%90+%40CodeChef;React+Developer" alt="Typing SVG" /></a>
 </div>
 
-I am a passionate Full Stack developer with expertise in **Django**, **Django REST Framework**, and **React.js**. My skills include working with **REST APIs**, **SQL**, **PostgreSQL**, **MySQL**, and **JavaScript**. I enjoy solving problems and have solved over **1400 competitive programming** problems across various platforms.
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
-
-💻 **Acitively coding in:** Python, JavaScript, SQL , C++ .  
-🎯 **Goals for 2024:** A full stack developer and preparing for a job..  
-
-- :boom: You can visit [Portfolio](https://mdmerazulislam.netlify.app/)
-- CV - [see now](https://drive.google.com/file/d/1SrRDya2jkaZAsUeYLeuo-4bxLdJBM7QR/view) 
-<be>
+**I am a passionate Full Stack Developer with expertise in Django, Django REST Framework, and React.js. My skills include working with REST APIs, SQL, PostgreSQL, MySQL, and JavaScript. I enjoy solving problems and have solved over 1,400 competitive programming problems across various platforms.**
 
 
-###  👨‍💻  Programming languages
-<!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMS8crvN1a1SPjTqc8N26FA?style=social) -->
-<p align='left'>
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" height="50" width="50" /> 
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> 
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="java" height="50" width="50" /> 
-<!-- <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="bablubambal" height="50" width="50" />  -->
-</p>
+## 👨‍💻 About Me
+
+- 🔭 I’m currently focusing on developing my skills in software development and competitive programming.
+- 🌱 I’m learning more about advanced algorithms and frameworks to enhance my coding capabilities.
+- 👯 I’m looking to collaborate on open-source projects and gain more experience in software development.
+- 💬 Ask me about competitive programming, Django, REST APIs, and front-end development.
+- 📫 How to reach me: [mdmerazul75@gmail.com](mdmerazul75@gmail.com)
+- ⚡ Fun fact: I have a background as a Freelance Video Editor, which has honed my client management and time management skills.
 
 
 
-</div>
+## 🔹 Tech Stack
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills  </h2>
-<br>
-<p align="left">
-<!--   <a href="https://skillicons.dev"> -->
-    <img src="https://skillicons.dev/icons?i=react,python,javascript,django,mysql,cpp,java,html,css,bootstrap,tailwind" />
-<!--     <img src="https://skillicons.dev/icons?i=html,css,babel,javascript,react,next,tailwind,bootstrap,materialui,nodejs,expressjs,mongodb,typescript,mysql,git,github,vite,jquery,firebase,postman,cpp,java,python,php,vscode,c,vercel,netlify,figma" /> -->
-<!--   </a> -->
-</p>
+| **Programming Languages** | **Frontend** | **Backend** | **Database** | **Tools** |
+|---------------------------|--------------|-------------|--------------|-----------|
+| <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java" alt="languages-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=django" alt="backend-icons" style="width: 60%;"/> | <img src="https://skillicons.dev/icons?i=mysql,postgres," alt="databases-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify,ps" alt="tools-icons" style="width: 100%;"/> |
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tools </h2>
-<br>
-<p align="left">
 
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,ai,ps,discord,netlify,figma" />
-<!--     <img src="https://skillicons.dev/icons?i=html,css,babel,javascript,react,next,tailwind,bootstrap,materialui,nodejs,expressjs,mongodb,typescript,mysql,git,github,vite,jquery,firebase,postman,cpp,java,python,php,vscode,c,vercel,netlify,figma" /> -->
-
-</p>
 
 
 <!-- Competitive Programming Profiles --> 
@@ -72,8 +51,7 @@ I am a passionate Full Stack developer with expertise in **Django**, **Django RE
 </a>
 <br/>
 <a href="https://github.com/Md-Merazul-Islam/meraz_cf">
-<!-- <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/max_rating.svg" /> -->
-<!-- <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/rating.svg" /> -->
+
 </a>
 
 <div align="left" width=100% >
@@ -92,37 +70,26 @@ I am a passionate Full Stack developer with expertise in **Django**, **Django RE
 </div>
 
 <p align="center">
-    <a href="https://github.com/Md-Merazul-Islam">
-        <img alt="Md-Merazul-Islam's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Merazul-Islam&theme=tokyonight&hide_border=true" height="500px"/>
-    </a>
+
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
-<div  >
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Merazul-Islam&theme=github_dark" width="33%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Merazul-Islam&theme=github_dark" width="33%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Merazul-Islam&theme=github_dark&utcOffset=8" width="33%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Merazul-Islam&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
- 
- 
-
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-
-
+</div>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Md-Merazul-Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Md-Merazul-Islam&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="600px"/>
+    <a href="https://github.com/Md-Merazul-Islam/github-readme-stats">
+        <img alt="Md-Merazul-Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Md-Merazul-Islam&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true" height="200px"/>
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Md-Merazul-Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Merazul-Islam&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="1100px"/>
+    <a href="https://github.com/Md-Merazul-Islam">
+        <img alt="Md-Merazul-Islam's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Merazul-Islam&theme=tokyonight&hide_border=true" height="200px"/>
     </a>
 </p>
+
+
 
 
 
@@ -164,7 +131,5 @@ I am a passionate Full Stack developer with expertise in **Django**, **Django RE
 - 🥅 2023 :Goals: Start programming journey, Join`Phitron's` CP Club, achieve the `pupil` at Codeforces and `2`⭐ at codechef (Alhamdulillah done)
 - 🥅 2024 :Goals: (ins sha allah) Solve `1000+` problems Codeforces , Become `specialist` at codeforces , `3`⭐ at Codeechef and also become a `backend developer` .
   <!--- 🥅 2025 :Goals: (ins sha allah) To become a `Software Engineer` and get a `job` .-->
-
-
 
 
