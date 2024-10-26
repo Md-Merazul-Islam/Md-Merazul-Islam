@@ -82,10 +82,10 @@
 
 <p align="center">
     <a href="https://github.com/Md-Merazul-Islam/github-readme-stats">
-        <img alt="Md-Merazul-Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Md-Merazul-Islam&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true" height="200px"/>
+        <img alt="Md-Merazul-Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Md-Merazul-Islam&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true" height="190px"/>
     </a>
     <a href="https://github.com/Md-Merazul-Islam">
-        <img alt="Md-Merazul-Islam's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Merazul-Islam&theme=tokyonight&hide_border=true" height="200px"/>
+        <img alt="Md-Merazul-Islam's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Merazul-Islam&theme=tokyonight&hide_border=true" height="190px"/>
     </a>
 </p>
 
