@@ -74,21 +74,35 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
-<div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Merazul-Islam&theme=github_dark" width="33%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Merazul-Islam&theme=github_dark" width="33%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Merazul-Islam&theme=github_dark&utcOffset=8" width="33%">
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Merazul-Islam&theme=github_dark" width="100%">
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Merazul-Islam&theme=github_dark" width="100%">
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Merazul-Islam&theme=github_dark&utcOffset=8" width="100%">
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-    <a href="https://github.com/Md-Merazul-Islam/github-readme-stats">
-        <img alt="Md-Merazul-Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Md-Merazul-Islam&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true" height="190px"/>
-    </a>
-    <a href="https://github.com/Md-Merazul-Islam">
-        <img alt="Md-Merazul-Islam's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Merazul-Islam&theme=tokyonight&hide_border=true" height="190px"/>
-    </a>
-</p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Md-Merazul-Islam/github-readme-stats">
+        <img alt="Md-Merazul-Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Md-Merazul-Islam&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true" height=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Md-Merazul-Islam">
+        <img alt="Md-Merazul-Islam's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Merazul-Islam&theme=tokyonight&hide_border=true" height=""/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
