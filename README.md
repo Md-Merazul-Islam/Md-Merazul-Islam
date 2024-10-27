@@ -21,10 +21,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently focusing on developing my skills in software development and competitive programming.
+- 🔭 I’m currently focusing on developing my skills in full development .
 - 🌱 I’m learning more about advanced algorithms and frameworks to enhance my coding capabilities.
-- 👯 I’m looking to collaborate on open-source projects and gain more experience in software development.
-- 💬 Ask me about competitive programming, Django, REST APIs, and front-end development.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about competitive programming, Django, REST APIs, and full-stack development.
 - 📫 How to reach me: [mdmerazul75@gmail.com](mdmerazul75@gmail.com)
 - ⚡ Fun fact: I have a background as a Freelance Video Editor, which has honed my client management and time management skills.
 
