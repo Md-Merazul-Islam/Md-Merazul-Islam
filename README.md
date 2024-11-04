@@ -49,7 +49,7 @@
   <tr>
     <td width="33%" valign="top align="center">
       <a href="https://github.com/Md-Merazul-Islam/meraz_cf" align="center">
-        <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Card" width="80%" max-height="50%" 			align="center" />
+        <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Card" width="90%" align="center" />
       </a>
     </td>
     <td width="33%" valign="top" align="center">
