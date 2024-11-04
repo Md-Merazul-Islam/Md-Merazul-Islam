@@ -43,33 +43,91 @@
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
-<!-- https://leetcard.jacoblin.cool/ --> 
-<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/max_rating.svg" />
-<a href="https://github.com/Md-Merazul-Islam/meraz_cf">
-<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg#gh-dark-mode-only" />
-<!--<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg" /> -->
-</a>
-<br/>
-<a href="https://github.com/Md-Merazul-Islam/meraz_cf">
 
-</a>
+<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/max_rating.svg" alt="Max Rating" width="" />
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top align="center">
+      <a href="https://github.com/Md-Merazul-Islam/meraz_cf" align="center">
+        <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Card" width="80%" max-height="50%" 			align="center" />
+      </a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <table width="100%">
+        <tr>
+          <th align="left">Platform</th>
+          <th align="left">Profile Link</th>
+          <th align="center">Image</th>
+        </tr>
+        <tr>
+          <td>Codeforces</td>
+          <td><a href="https://codeforces.com/profile/Md-Merazul-Islam">Profile</a></td>
+          <td align="center">
+            <a href="https://codeforces.com/profile/Md-Merazul-Islam">
+              <img src="https://i.ibb.co/bmz0Z6C/Untitled-design-removebg-preview.png" alt="Codeforces" width="24" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>LeetCode</td>
+          <td><a href="https://leetcode.com/mdmerazulislam/">Profile</a></td>
+          <td align="center">
+            <a href="https://leetcode.com/mdmerazulislam/">
+              <img src="https://i.ibb.co/PrNnHzz/Untitled-design-2-removebg-preview.png" alt="LeetCode" width="24" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>AtCoder</td>
+          <td><a href="https://atcoder.jp/users/mdmerazulislam">Profile</a></td>
+          <td align="center">
+            <a href="https://atcoder.jp/users/mdmerazulislam">
+              <img src="https://i.ibb.co/Cb6V7NF/Untitled-design-3-removebg-preview.png" alt="AtCoder" width="24" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <table width="100%">
+        <tr>
+          <th align="left">Platform</th>
+          <th align="left">Profile Link</th>
+          <th align="center">Image</th>
+        </tr>
+        <tr>
+          <td>CodeChef</td>
+          <td><a href="https://www.codechef.com/users/mdmerazulislam">Profile</a></td>
+          <td align="center">
+            <a href="https://www.codechef.com/users/mdmerazulislam">
+              <img src="https://i.ibb.co/bbWxB0s/Untitled-design-4-removebg-preview.png" alt="CodeChef" width="24" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>HackerRank</td>
+          <td><a href="https://www.hackerrank.com/profile/mdmerazul75">Profile</a></td>
+          <td align="center">
+            <a href="https://www.hackerrank.com/profile/mdmerazul75">
+              <img src="https://i.ibb.co/3NzhC55/Untitled-design-5-removebg-preview.png" alt="HackerRank" width="24" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>Vjudge</td>
+          <td><a href="https://vjudge.net/user/mdmerazulislam">Profile</a></td>
+          <td align="center">
+            <a href="https://vjudge.net/user/mdmerazulislam">
+              <img src="https://i.ibb.co/gWjkfwY/download.jpg" alt="Vjudge" width="24" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<div align="left" width=100% >
-  <a href="https://codeforces.com/profile/Md-Merazul-Islam"><img src="https://i.ibb.co.com/bmz0Z6C/Untitled-design-removebg-preview.png" width=6%/></a>
-	  &emsp; 
-	<a href="https://leetcode.com/mdmerazulislam/"><img src="https://i.ibb.co.com/PrNnHzz/Untitled-design-2-removebg-preview.png" alt="LeetCode" width=60/></a>
-	  &emsp; 
-	<a href="https://atcoder.jp/users/mdmerazulislam"><img src="https://i.ibb.co.com/Cb6V7NF/Untitled-design-3-removebg-preview.png" alt="AtCoder" width=6%/></a>
-	  &emsp; 
-	<a href="https://atcoder.jp/users/mdmerazulislam"><img src="https://i.ibb.co.com/bbWxB0s/Untitled-design-4-removebg-preview.png" alt="Code Chef" width=6%/></a>
-	  &emsp; 
-	<a href="https://www.hackerrank.com/profile/mdmerazul75"><img src="https://i.ibb.co.com/3NzhC55/Untitled-design-5-removebg-preview.png" alt="Hacker Rank" width=6%/></a>
-	  &emsp; 
-	
 
-</div>
-
-<p align="center">
 
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
