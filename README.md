@@ -141,7 +141,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Merazul-Islam&theme=github_dark" width="100%">
     </td>
     <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Merazul-Islam&theme=github_dark&utcOffset=8" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Merazul-Islam&theme=blueberry&show_icons=true&hide_border=true&layout=compact" height="200px" width="100%">
     </td>
   </tr>
 </table>
