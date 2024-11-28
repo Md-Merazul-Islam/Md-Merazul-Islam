@@ -34,7 +34,7 @@
 
 | **Languages** | **Frontend** | **Backend** | **Database** | **Tools** |
 |---------------------------|--------------|-------------|--------------|-----------|
-| <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java" alt="languages-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=django" alt="backend-icons" style="width: 60%;"/> | <img src="https://skillicons.dev/icons?i=mysql,postgres," alt="databases-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify,ps" alt="tools-icons" style="width: 100%;"/> |
+| <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java" alt="languages-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=django,docker" alt="backend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="databases-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify,ps" alt="tools-icons" style="width: 100%;"/> |
 
 
 
