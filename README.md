@@ -141,10 +141,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Merazul-Islam&theme=github_dark" width="100%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Merazul-Islam&theme=blueberry" width="100%">
     </td>
     <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Merazul-Islam&theme=github_dark" width="100%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Merazul-Islam&theme=blueberry" width="100%">
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Merazul-Islam&theme=blueberry&show_icons=true&hide_border=true&layout=compact" height="200px" width="100%">
@@ -156,9 +156,9 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Md-Merazul-Islam/github-readme-stats">
-        <img alt="Md-Merazul-Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Md-Merazul-Islam&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true" height=""/>
-      </a>
+	<a href="">
+	    <img alt="md-merazul-islam's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/md-merazul-islam?cardType=level&theme=blueberry&preferLogin=true&hide_border=false" />
+	</a>
     </td>
     <td align="center">
       <a href="https://github.com/Md-Merazul-Islam">
@@ -167,8 +167,6 @@
     </td>
   </tr>
 </table>
-
-
 
 
 
