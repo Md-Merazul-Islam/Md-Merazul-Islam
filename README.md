@@ -16,7 +16,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B6FF&width=280&lines=Django+Developer;Full+Stack+Developer;Competitive+Programmer+;Specialist+%40Codeforces;3%E2%AD%90+%40CodeChef;React+Developer" alt="Typing SVG" /></a>
 </div>
 
-**I am a passionate Full Stack Developer with expertise in Django, Django REST Framework, and React.js. My skills include working with REST APIs, SQL, PostgreSQL, MySQL, and JavaScript. I enjoy solving problems and have solved over 1,400 competitive programming problems across various platforms.**
+*I am a passionate **Backend Developer** at **SM Technology** with expertise in Django, Django REST Framework, and **OpenAI**. My skills include working with REST APIs, SQL, PostgreSQL, MySQL, and JavaScript. I enjoy solving problems and have solved over 1,400 competitive programming problems across various platforms.*
 
 
 ## 👨‍💻 About Me
