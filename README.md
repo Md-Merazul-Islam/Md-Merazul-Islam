@@ -16,7 +16,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B6FF&width=280&lines=Django+Developer;Full+Stack+Developer;Competitive+Programmer+;Specialist+%40Codeforces;3%E2%AD%90+%40CodeChef;React+Developer" alt="Typing SVG" /></a>
 </div>
 
-*I am a passionate **Backend Developer** at **SM Technology** with expertise in Django, Django REST Framework, and **OpenAI**. My skills include working with REST APIs, SQL, PostgreSQL, MySQL, and JavaScript. I enjoy solving problems and have solved over 1,400 competitive programming problems across various platforms.*
+- 🔧 Backend Developer with **1+ year of industry experience**
+- 🔄 Building **secure, scalable APIs** with **Django REST Framework**
+- ⚡ Passionate about **performance, clean code, and real-world problem solving**
+- 🌍 Worked with **international clients** across fast-paced, agile environments
+- 🧰 DevOps-ready with Docker, CI/CD, AWS, Nginx, Redis, and more*
 
 
 ## 👨‍💻 About Me
@@ -38,11 +42,20 @@
 
 ## 🔹 Tools I Use
 
-| **Tools** |
-|-----------|
-| <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify,ps" alt="tools-icons" style="width: 100%;"/> |
+| **Dev & Design Tools** |
+|------------------------|
+| <img src="https://skillicons.dev/icons?i=ubuntu,docker,git,github,postman,githubactions,vscode,figma,netlify,aws" alt="tools-icons" /> |
 
+---
+## 🔹 DevOps / Infra
 
+- 🐳 Docker & Docker Compose  
+- ⚙️ PM2 Process Manager  
+- 🔄 CI/CD using GitHub Actions  
+- ☁️ AWS (EC2, S3)  
+- 🌐 DNS Management via Namecheap / Cloudflare  
+- 🐘 PostgreSQL, Redis  
+- ✉️ SMTP / Email integrations  
 
 
 <!-- Competitive Programming Profiles --> 
@@ -209,3 +222,6 @@
 - 🥅 2025 :Goals: (ins sha allah) To get a `job`  as a backend developer And Become `AI/ML` Engineer. 
 
 
+<p align="center">
+  🚀 Always learning. Always building.
+</p>
