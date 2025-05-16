@@ -16,21 +16,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B6FF&width=280&lines=Django+Developer;Full+Stack+Developer;Competitive+Programmer+;Specialist+%40Codeforces;3%E2%AD%90+%40CodeChef;React+Developer" alt="Typing SVG" /></a>
 </div>
 
+## 👨‍💻 About Me
+
 - 🔧 Backend Developer with **1+ year of industry experience**
 - 🔄 Building **secure, scalable APIs** with **Django REST Framework**
 - ⚡ Passionate about **performance, clean code, and real-world problem solving**
 - 🌍 Worked with **international clients** across fast-paced, agile environments
 - 🧰 DevOps-ready with Docker, CI/CD, AWS, Nginx, Redis, and more*
-
-
-## 👨‍💻 About Me
-
-- 🔭 I’m currently focusing on developing my skills in full development .
 - 🌱 I’m learning more about advanced algorithms and frameworks to enhance my coding capabilities.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about competitive programming, Django, REST APIs, and full-stack development.
 - 📫 How to reach me: [mdmerazul75@gmail.com](mdmerazul75@gmail.com)
-- ⚡ Fun fact: I have a background as a Freelance Video Editor, which has honed my client management and time management skills.
 
 
 
