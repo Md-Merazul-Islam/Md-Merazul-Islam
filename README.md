@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 Backend Developer with **1+ year of industry experience**
+- 🔧 Backend Developer with **2+ year of industry experience**
 - 🔄 Building **secure, scalable APIs** with **Django REST Framework**
 - ⚡ Passionate about **performance, clean code, and real-world problem solving**
 - 🌍 Worked with **international clients** across fast-paced, agile environments
