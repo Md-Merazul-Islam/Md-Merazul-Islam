@@ -173,7 +173,8 @@
 
 - 🥅 2023 Goals: Start programming journey, Join Phitron's CP Club, achieve the pupil at Codeforces and 2⭐ at CodeChef (Alhamdulillah done)
 - 🥅 2024 Goals: Solve 1000+ problems, Become specialist at Codeforces, 3⭐ at CodeChef and also become a backend developer (Alhamdulillah Done)
-- 🥅 2025 Goals: (Insha Allah) To get a job as a backend developer and become an AI/ML Engineer
+- 🥅 2025 Goals: To get a job as a backend developer and become an AI/ML Engineer (Alhamdulillah)
+- 🥅 2026 Goals: (In-sha-allah) switch the job, Be a Software Enginner, Explore AI/ML more Deep 
 
 ---
 
